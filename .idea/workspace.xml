@@ -2,54 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead742f6-26db-4bbb-8014-c904cccab75c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/action/05.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/action/Action.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/04.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Worker.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/prototype/04.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/build/Director.class" afterPath="$PROJECT_DIR$/target/classes/cn/keking/design/build/Director.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/build/IBuild.class" afterPath="$PROJECT_DIR$/target/classes/cn/keking/design/build/IBuild.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/build/ProductBuild1.class" afterPath="$PROJECT_DIR$/target/classes/cn/keking/design/build/ProductBuild1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/build/ProductBuild2.class" afterPath="$PROJECT_DIR$/target/classes/cn/keking/design/build/ProductBuild2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/05.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/action/05.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/action/Action.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/03.md" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/03.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/Director.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/Director.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/IBuild.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/IBuild.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/Product.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/Product.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/ProductBuild1.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/ProductBuild1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/ProductBuild2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/ProductBuild2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/type/AbstractProduct.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/type/AbstractProduct.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/type/IBuild.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/type/IBuild.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/type/ProductBuild1.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/type/ProductBuild1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/build/type/ProductBuild2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/type/ProductBuild2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/02.md" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/02.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/SimpleFactory.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/SimpleFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/impls/BigBus.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/BigBus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/impls/BigCar.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/BigCar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/impls/SmallBus.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/SmallBus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/impls/SmallCar.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/SmallCar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/interfaces/IBus.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/interfaces/IBus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/interfaces/ICar.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/interfaces/ICar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/onefactory/AbstractFactory.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/AbstractFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/onefactory/BigCarFactory.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/BigCarFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/onefactory/FactoryTest.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/FactoryTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/onefactory/SmallCarFactory.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/SmallCarFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/reflect/AbstractFactoryByReflect.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/reflect/AbstractFactoryByReflect.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/reflect/CommAbstractFactory.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/reflect/CommAbstractFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/twofactory/AbstractFactory2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/twofactory/AbstractFactory2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/twofactory/BigBusFactory.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/twofactory/BigBusFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/twofactory/SmallBusFactory.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/twofactory/SmallBusFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/single/01.md" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/single/01.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/single/Singleton1.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/single/Singleton1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/single/Singleton2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/single/Singleton2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/03.md" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/03.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/04.md" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/04.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,12 +34,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/04.md">
+      <file leaf-file-name="05.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/05.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="250">
-                <caret line="43" column="11" lean-forward="false" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+              <first_editor relative-caret-position="832">
+                <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -89,22 +47,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Action.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/action/Action.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/action/05.md">
+      <file leaf-file-name="03.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/03.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="382">
+                <caret line="35" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -112,71 +60,92 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Address.java">
+      <file leaf-file-name="CommChain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/CommChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="78">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Filter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Filter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="66" lean-forward="false" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cloneable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Cloneable.java">
+      <file leaf-file-name="Request.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Request.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            <state relative-caret-position="130">
+              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Response.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Response.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+              <folding>
+                <element signature="e#141#142#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OneFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/OneFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/TwoFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilterChain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/FilterChain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-43">
-              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="5" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Serializable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Serializable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="168" column="17" lean-forward="false" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Worker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Worker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="182">
+              <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -204,24 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/patterns/single/Factory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/patterns/single/Singleton1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/patterns/single/Singleton2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/patterns/single/singleton.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/interfaces/ICar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/impls/BigCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/impls/SmallCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/anyfactory/BigCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/anyfactory/SmallFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/anyfactory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/anyfactory/FactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/interfaces/IBus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/impls/BigBus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/impls/SmallBus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/onefactory/SmallFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/twofactory/BigBusFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/twofactory/SmallBusFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/twofactory/AbstractFactory2.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/factory/reflect/CommAbstractFactory.java" />
@@ -254,7 +205,25 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/prototype/serializable/Worker.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/prototype/04.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/create/Action.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/03.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/04.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/action/05.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/AbstactHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/Request.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/FirstHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/SecondHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/LastHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/MyChain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/CommChain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Request.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Response.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/FilterChain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/OneFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/TwoFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/05.md" />
       </list>
     </option>
   </component>
@@ -275,13 +244,15 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="2" />
     <option name="width" value="1363" />
     <option name="height" value="724" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -297,6 +268,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -337,7 +309,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="action" type="462c0819:PsiDirectoryNode" />
+              <item name="chain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="chain" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -347,6 +329,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="create" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -367,10 +359,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,6 +373,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.keking.design.chain" />
       <recent name="cn.keking.design.build" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -401,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Director" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -448,6 +440,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="cn.keking.design.patterns.single.Singleton2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design-patterns" />
+      <envs />
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.keking.design.chain.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.keking.design.chain.demo.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -559,18 +570,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Singleton2" />
       <item index="1" class="java.lang.String" itemvalue="Application.SimpleFactory" />
       <item index="2" class="java.lang.String" itemvalue="Application.Director" />
       <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Director" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SimpleFactory" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Singleton2" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Director" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SimpleFactory" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Singleton2" />
       </list>
     </recent_temporary>
   </component>
@@ -587,12 +600,14 @@
       <workItem from="1521273337008" duration="20655000" />
       <workItem from="1521363988050" duration="13413000" />
       <workItem from="1521465761013" duration="5803000" />
-      <workItem from="1521977745015" duration="11906000" />
+      <workItem from="1521977745015" duration="12180000" />
+      <workItem from="1522160043893" duration="2929000" />
+      <workItem from="1522489993771" duration="10953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51777000" />
+    <option name="totallyTimeSpent" value="65917000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -604,7 +619,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="2" width="1363" height="724" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -615,11 +631,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1860817" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33224222" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2730711" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -688,12 +704,81 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/single/01.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/BigBus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/interfaces/IBus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/interfaces/ICar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/SimpleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/BigCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/BigCarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/SmallCarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/twofactory/AbstractFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/02.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="130">
-            <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-            <folding />
+          <first_editor relative-caret-position="317">
+            <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
@@ -701,114 +786,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/reflect/AbstractFactoryByReflect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="52">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/reflect/CommAbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="156">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/twofactory/SmallBusFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Worker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="-17">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/03.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="182">
-            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/factory/Factory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/SmallCar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3770">
+          <caret line="168" column="17" lean-forward="false" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/SmallBus.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Address.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="182">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/twofactory/BigBusFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/twofactory/SmallBusFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/ProductBuild2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="312">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/ProductBuild1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/IBuild.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="728">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/ProductBuild1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
           <folding>
-            <element signature="docComment;method#create#0;class#IBuild#0" expanded="false" />
+            <element signature="e#515#516#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="e#167#168#0" expanded="false" />
+            <element signature="e#203#204#0" expanded="false" />
+            <element signature="e#458#459#0" expanded="false" />
+            <element signature="e#496#497#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/type/IBuild.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="e#489#490#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,10 +928,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding>
-            <element signature="e#265#266#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -833,280 +942,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/type/AbstractProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/single/01.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="26">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="22" selection-end-column="33" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/single/Singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#244#245#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/single/Singleton2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/03.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="910">
-            <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/BigBus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/interfaces/IBus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/interfaces/ICar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="e#775#776#0" expanded="false" />
-            <element signature="e#832#833#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/impls/BigCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/BigCarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/SmallCarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#296#297#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/FactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/twofactory/AbstractFactory2.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/02.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="317">
-            <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="40" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/reflect/AbstractFactoryByReflect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/reflect/CommAbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="168" column="17" lean-forward="false" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/constructor/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/cloneable/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/serializable/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1114,15 +951,45 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/prototype/04.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="250">
-            <caret line="43" column="11" lean-forward="false" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+          <first_editor relative-caret-position="162">
+            <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="78" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/action/Action.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/SecondHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/LastHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/Action.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -1130,11 +997,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/action/05.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/FirstHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/AbstactHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/MyChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/CommChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="66" lean-forward="false" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/OneFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/TwoFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/03.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="382">
+            <caret line="35" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/chain/05.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="832">
+            <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
