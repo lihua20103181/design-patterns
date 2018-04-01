@@ -2,76 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead742f6-26db-4bbb-8014-c904cccab75c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/AbstactHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/CommChain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/FirstHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/LastHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/MyChain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/Request.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/SecondHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/demo/Filter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/demo/FilterChain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/demo/OneFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/demo/Request.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/demo/Response.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/demo/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/chain/demo/TwoFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/build/Director.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/build/IBuild.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/build/Product.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/build/ProductBuild1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/build/ProductBuild2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/build/type/AbstractProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/build/type/IBuild.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/build/type/ProductBuild1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/build/type/ProductBuild2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/SimpleFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/impls/BigBus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/impls/BigCar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/impls/SmallBus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/impls/SmallCar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/interfaces/IBus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/interfaces/ICar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/onefactory/AbstractFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/onefactory/BigCarFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/onefactory/FactoryTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/onefactory/SmallCarFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/reflect/AbstractFactoryByReflect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/reflect/CommAbstractFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/twofactory/AbstractFactory2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/twofactory/BigBusFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/factory/twofactory/SmallBusFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/prototype/cloneable/Address.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/prototype/cloneable/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/prototype/cloneable/Worker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/prototype/constructor/Address.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/prototype/constructor/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/prototype/constructor/Worker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/prototype/serializable/Address.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/prototype/serializable/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/prototype/serializable/Worker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/single/Singleton1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/single/Singleton2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/single/Singleton2$Inner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/keking/design/create/single/Singleton2.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/05.md" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/05.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/AbstactHandler.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/AbstactHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/CommChain.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/CommChain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/FirstHandler.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/FirstHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/LastHandler.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/LastHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/MyChain.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/MyChain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/Request.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/Request.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/SecondHandler.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/SecondHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/Test.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Filter.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/demo/Filter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/FilterChain.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/demo/FilterChain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/OneFilter.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/demo/OneFilter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Request.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/demo/Request.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Response.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/demo/Response.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/Test.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/demo/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/chain/demo/TwoFilter.java" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/chain/demo/TwoFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/iterator/07.md" afterPath="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/iterator/07.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -156,9 +89,9 @@
       <file leaf-file-name="07.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/iterator/07.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
+            <state split_layout="FIRST">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+                <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -209,19 +142,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/build/03.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="910">
-                <caret line="35" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -244,7 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/build/ProductBuild1.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/build/ProductBuild2.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/build/IBuild.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/build/Director.java" />
@@ -295,6 +214,7 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/command/ConcreteCommander.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/command/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/iterator/07.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -651,12 +571,12 @@
       <workItem from="1521977745015" duration="12180000" />
       <workItem from="1522160043893" duration="2929000" />
       <workItem from="1522489993771" duration="11812000" />
-      <workItem from="1522578941925" duration="7617000" />
+      <workItem from="1522578941925" duration="12035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74393000" />
+    <option name="totallyTimeSpent" value="78811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -677,7 +597,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1860817" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1860817" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44189852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -753,13 +673,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/create/factory/onefactory/FactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -1158,11 +1071,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/keking/design/behavior/iterator/07.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
