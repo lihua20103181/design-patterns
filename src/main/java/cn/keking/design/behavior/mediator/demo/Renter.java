@@ -1,13 +1,16 @@
 package cn.keking.design.behavior.mediator.demo;
 
+import cn.keking.design.behavior.mediator.IColleague;
+import cn.keking.design.behavior.mediator.IMediator;
+
 /**
  * 租房者
  */
-public class Renter {
+public class Renter implements IColleague {
     String name;
-    Mediator mediator;
+    IMediator mediator;
 
-    public Renter(String name, Mediator mediator) {
+    public Renter(String name, IMediator mediator) {
         this.name = name;
         this.mediator = mediator;
     }
