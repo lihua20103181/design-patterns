@@ -1,8 +1,10 @@
-.idea
-.idea/
+**/target/
 .classpath
 .project
+/.settings
+**/bin/
+**/.externalToolBuilders/
 *.iml
-target/
+**/.idea/
+logging*
 .DS_Store
-.gitattributes
