@@ -8,3 +8,4 @@
 **/.idea/
 logging*
 .DS_Store
+.idea
